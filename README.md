@@ -34,7 +34,7 @@ Analyze Superstore sales data to identify revenue trends, profitability drivers,
 - ~98% customers are repeat buyers
 
 ## Dashboard Preview
-<img>
+<img src="Screenshots/Dasboard_overview.png">
 
 ## How to Run the Project
 1. Run Python notebooks for data cleaning & EDA
